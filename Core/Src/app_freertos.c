@@ -118,10 +118,11 @@ void StartTask01(void *argument)
   for(;;)
   {
 	HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_SET);
-	printf("Task01 - led ON\n");
+	printf("Task01 - led ON\n\r"
+			"");
     osDelay(500);
     HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
-    printf("Task01 - led OFF\n");
+    printf("Task01 - led OFF\n\r");
     osDelay(500);
   }
   /* USER CODE END blink_task */
@@ -140,7 +141,7 @@ void StartTask02(void *argument)
   /* Infinite loop */
   for(;;)
   {
-	printf("Task02 - Hello World\n");
+	printf("Task02 - Hello World\n\r");
     osDelay(800);
   }
   /* USER CODE END hello_task */
