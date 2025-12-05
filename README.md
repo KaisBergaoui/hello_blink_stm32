@@ -179,7 +179,7 @@ int main(void)
 
 ## 📘 Notes
 
-* BSP VCONM & UART configuration may vary depending on your board.
+* BSP VCOM & UART configuration may vary depending on your board.
 * Stack sizes may need adjusting depending on CubeIDE defaults.
 * If using a custom board, verify the LED pin mapping.
 * FreeRTOS requires proper interrupt priority configuration—CubeMX handles this automatically.
