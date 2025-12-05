@@ -1,6 +1,6 @@
 # STM32 FreeRTOS Dual-Task Example
 
-![alt text](https://github.com/KaisBergaoui/hello_blink_stm32/tree/main/Media/stm32_freertos_banner.png "STM32_freeRTOS_Banner")
+![alt text](https://github.com/KaisBergaoui/hello_blink_stm32/blob/main/Media/stm32_freertos_banner.png "STM32_freeRTOS_Banner")
 
 A minimal STM32 project demonstrating how to run **multiple FreeRTOS tasks** on an STM32 microcontroller using **STM32CubeIDE**.
 
