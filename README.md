@@ -54,7 +54,7 @@ Both tasks are created in `main.c` using `MX_FREERTOS_Init();` and run under the
 
 ## 🚀 Pinout Viwe
 
-![alt text](https://github.com/KaisBergaoui/hello_blink_stm32/tree/main/Media/pinout_view.jpg "STM32_freeRTOS_Banner")
+![alt text](hhttps://github.com/KaisBergaoui/hello_blink_stm32/blob/main/Media/pinout_view.jpg "STM32_freeRTOS_Banner")
 
 ---
 
@@ -171,7 +171,7 @@ int main(void)
 
 ## 📘 Terminal Output
 
-![alt text](https://github.com/KaisBergaoui/hello_blink_stm32/tree/main/Media/stm32_freeRTOS_terminal_output.gif "Terminal Output")
+![alt text](https://github.com/KaisBergaoui/hello_blink_stm32/blob/main/Media/stm32_freeRTOS_terminal_output.gif "Terminal Output")
 
 ---
 
