@@ -52,7 +52,7 @@ Both tasks are created in `main.c` using `MX_FREERTOS_Init();` and run under the
 6. Open a serial terminal at the configured UART baud rate = 115200
 ```
 
-## 🚀 Pinout Viwe
+## 🚀 Pinout View
 
 ![alt text](https://github.com/KaisBergaoui/hello_blink_stm32/blob/main/Media/pinout_view.jpg "STM32_freeRTOS_Banner")
 
